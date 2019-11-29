@@ -1,5 +1,5 @@
 package cn.itcast;
 
 public class Test {
-    int i;
+    int i=1；
 }
